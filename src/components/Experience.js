@@ -13,6 +13,29 @@ const Experience = () => {
           <div className="container">
             <div className="content">
               <div className="left-column">
+                <p className="date">2025.01 - Ing</p>
+                <p className="company">글로벌엠이엠(주)</p>
+                <p className="position">정규직</p>
+              </div>
+              <div className="right-column">
+                <p>
+                  현재 아이디병원 글로벌 본부 영업관리팀에서 데이터 관리 직무로
+                  근무 중입니다.
+                </p>
+                <p>
+                  엑셀을 활용해 각 국가팀에서 요청하는 데이터를 산출하고 매월
+                  정기손익 데이터를 관리하였습니다.
+                </p>
+                <p>
+                  매출 분석을 통해 매출 성장률 및 의사결정을 위한 자료를
+                  제공하는 업무를 맡았습니다.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="container">
+            <div className="content">
+              <div className="left-column">
                 <p className="date">2023.04 - 2024.04</p>
                 <p className="company">헬로서치(주)</p>
                 <p className="position">파견직</p>
@@ -28,29 +51,6 @@ const Experience = () => {
                 <p>
                   그리고 청약지원실 인력관리를 지원하였으며, 현장에서의 영업
                   활동 관련하여 사무 업무를 지원하였습니다.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div className="container">
-            <div className="content">
-              <div className="left-column">
-                <p className="date">2022.11 - 2023.01</p>
-                <p className="company">
-                  임서영영재교육
-                  <br />
-                  연구소
-                </p>
-                <p className="position">정규직</p>
-              </div>
-              <div className="right-column">
-                <p>
-                  초등학교 저학년 교육 시설로 원내 공문 작성, 비품 관리, 시설
-                  관리 등의 총무 업무를 맡았습니다.
-                </p>
-                <p>
-                  2개월 재직 중 재정 악화로 인해 오래다니지 못하고
-                  퇴사하게되었습니다.
                 </p>
               </div>
             </div>
